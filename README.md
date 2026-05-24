@@ -1,7 +1,7 @@
 <div dir="rtl" align="right">
 
 # 🎯 CTF Playbook: Password Attacks
-**ملخص اختراق روم (Checkmate) - تقنيات الهندسة العكسية لكلمات المرور والاختراق العنيف**
+**ملخص اختراق روم (Checkmate) - **
 
 ---
 
