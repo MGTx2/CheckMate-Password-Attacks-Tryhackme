@@ -1,7 +1,7 @@
 <div dir="rtl" align="right">
 
 # 🎯 CTF Playbook: Password Attacks
-**ملخص اختراق روم (Checkmate) - **
+**ملخص اختراق روم (Checkmate)**
 
 ---
 
